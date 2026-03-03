@@ -8,3 +8,31 @@ main{
     height: 100dvh;
     background: yellow;
 }
+section{
+    width: 100%;
+    height: 80dvh;
+    background: #810996;
+    border-radius: 0 0 120px 0;
+}
+nav{
+    width: 7%;
+    height: 3vh;
+    background: green;
+    margin-left: 4%;
+    margin-top: 3vh;
+    float: left;
+    color: #fff;
+    font-size: 2rem;
+    line-height: 3vh;
+}
+#usuario{
+    width: 13%;
+    height: 6vh;
+    background: blue;
+    float: right;
+    margin-top: 3vh;
+    margin-right: 5%;
+    font-size: 6rem;
+    line-height: 5vh;
+    color: #fff;
+}
